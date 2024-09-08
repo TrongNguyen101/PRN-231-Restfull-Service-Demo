@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -23,14 +24,14 @@ namespace RestfullServiceDemo.Controllers
 
         // GET: api/Books
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Book>>> Getbooks()
+        public async Task<string> Getbooks()
         {
-            return await _context.books.ToListAsync();
+            return JsonSerializer.Serialize(await _context.books.ToListAsync());
         }
 
         // GET: api/Books/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Book>> GetBook(int id)
+        public async Task<ActionResult<string>> GetBook(int id)
         {
             var book = await _context.books.FindAsync(id);
 
@@ -39,7 +40,7 @@ namespace RestfullServiceDemo.Controllers
                 return NotFound();
             }
 
-            return book;
+            return JsonSerializer.Serialize(book); ;
         }
 
         // PUT: api/Books/5
@@ -69,7 +70,6 @@ namespace RestfullServiceDemo.Controllers
                     throw;
                 }
             }
-
             return NoContent();
         }
 

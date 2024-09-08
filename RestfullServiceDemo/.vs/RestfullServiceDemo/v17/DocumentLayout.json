@@ -3,44 +3,56 @@
   "WorkspaceRootPath": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\update.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\datacontext\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\datacontext\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907163743_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestfullServiceDemo\\Migrations\\20240907163743_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907161541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestfullServiceDemo\\Migrations\\20240907161541_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\dto\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\restfullservicedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\restfullservicedemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\restfullservicedemo\\restfullservicedemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E7AEA8F8-9632-4D89-B8D7-C2E5B9640099}|RestfullServiceDemo\\RestfullServiceDemo.csproj|solutionrelative:restfullservicedemo\\restfullservicedemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|d:\\filecode_lap_acer\\fall_2024\\prn-231-restfull-service-demo\\restfullservicedemo\\frontenddemo\\frontenddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3D9A941-F9B8-422C-BC38-0DB86DFCBCCD}|FrontendDemo\\FrontendDemo.csproj|solutionrelative:frontenddemo\\frontenddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,132 +82,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Program.cs",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\Program.cs",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Program.cs",
-              "RelativeToolTip": "RestfullServiceDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Delete.cshtml",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:57:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Update.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Update.cshtml.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Update.cshtml.cs",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Update.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:39:57.927Z",
+              "WhenOpened": "2024-09-08T16:15:06.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240907163743_initial.cs",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907163743_initial.cs",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\Migrations\\20240907163743_initial.cs",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907163743_initial.cs",
-              "RelativeToolTip": "RestfullServiceDemo\\Migrations\\20240907163743_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:37:43.68Z",
+              "WhenOpened": "2024-09-08T15:45:31.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Create.cshtml",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Create.cshtml",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:45:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:35:38.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "RestfullServiceDemo\\Model\\Book.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Model\\Book.cs",
+              "RelativeToolTip": "RestfullServiceDemo\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:35:15.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\DTO\\Book.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\DTO\\Book.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\DTO\\Book.cs",
+              "RelativeToolTip": "FrontendDemo\\DTO\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:35:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrontendDemo",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\FrontendDemo.csproj",
+              "RelativeDocumentMoniker": "FrontendDemo\\FrontendDemo.csproj",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\FrontendDemo.csproj",
+              "RelativeToolTip": "FrontendDemo\\FrontendDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T15:33:08.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:48:17.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BooksController.cs",
               "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "RestfullServiceDemo\\Controllers\\BooksController.cs",
               "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Controllers\\BooksController.cs",
               "RelativeToolTip": "RestfullServiceDemo\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwDYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T16:32:48.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20240907161541_initial.cs",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907161541_initial.cs",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\Migrations\\20240907161541_initial.cs",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Migrations\\20240907161541_initial.cs",
-              "RelativeToolTip": "RestfullServiceDemo\\Migrations\\20240907161541_initial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\Program.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Program.cs",
+              "RelativeToolTip": "FrontendDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:15:41.182Z",
+              "WhenOpened": "2024-09-08T16:12:34.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BooksContext.cs",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\DataContext\\BooksContext.cs",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\DataContext\\BooksContext.cs",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\DataContext\\BooksContext.cs",
-              "RelativeToolTip": "RestfullServiceDemo\\DataContext\\BooksContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:05:52.545Z",
+              "DocumentIndex": 0,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Update.cshtml",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Update.cshtml",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Update.cshtml",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:15:06.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\appsettings.json",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\appsettings.json",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\appsettings.json",
-              "RelativeToolTip": "RestfullServiceDemo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T15:57:49.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\appsettings.Development.json",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\appsettings.Development.json",
-              "RelativeToolTip": "RestfullServiceDemo\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-07T15:57:48.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Model\\Book.cs",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\Model\\Book.cs",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\Model\\Book.cs",
-              "RelativeToolTip": "RestfullServiceDemo\\Model\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FrontendDemo\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\FrontendDemo\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "FrontendDemo\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T15:56:25.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestfullServiceDemo",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\RestfullServiceDemo.csproj",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\RestfullServiceDemo.csproj",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\RestfullServiceDemo.csproj",
-              "RelativeToolTip": "RestfullServiceDemo\\RestfullServiceDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T15:55:52.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RestfullServiceDemo.http",
-              "DocumentMoniker": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\RestfullServiceDemo.http",
-              "RelativeDocumentMoniker": "RestfullServiceDemo\\RestfullServiceDemo.http",
-              "ToolTip": "D:\\Filecode_lap_Acer\\FAll_2024\\PRN-231-Restfull-Service-Demo\\RestfullServiceDemo\\RestfullServiceDemo\\RestfullServiceDemo.http",
-              "RelativeToolTip": "RestfullServiceDemo\\RestfullServiceDemo.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-07T15:54:58.438Z",
+              "WhenOpened": "2024-09-08T16:57:52.46Z",
               "EditorCaption": ""
             }
           ]
